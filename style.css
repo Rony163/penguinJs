@@ -1,0 +1,9 @@
+.bg-color-header{
+    background-color: #FFFBF0;
+    ;
+}
+@media (max-width: 576px) { 
+    .mobile{
+        flex-direction: column;
+    }
+}
